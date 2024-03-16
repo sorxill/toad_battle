@@ -4,7 +4,7 @@ Has special abilities as like as absorbing incoming damage by 30% with a 20% cha
 """
 import random
 
-from toads.base_toad import Toad
+from .base_toad import Toad
 
 
 class ToadCraftsman(Toad):

@@ -4,7 +4,7 @@ Has special abilities as like as a complete dodge of the damage received with a 
 """
 import random
 
-from toads.base_toad import Toad
+from .base_toad import Toad
 
 
 class ToadAssassin(Toad):

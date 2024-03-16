@@ -4,7 +4,7 @@ Has special abilities as like as doubling the damage done together with a chance
 """
 import random
 
-from toads.base_toad import Toad
+from .base_toad import Toad
 
 
 class ToadAdventurer(Toad):
